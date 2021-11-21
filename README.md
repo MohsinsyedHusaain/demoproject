@@ -1,2 +1,2 @@
 # demoproject
-created tis for understanding github
+created this for understanding github!
